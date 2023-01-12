@@ -1,8 +1,12 @@
 <h1 align='center'> 👋 Hi, I’m Manuel Marquez 👨‍💻 </h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">A passionate software developtment 👀</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelhm98&label=Profile%20views&color=0e75b6&style=flat" alt="manuelhm98" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jmanueldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jmanueldev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manuel-marquez-622458195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-marquez-622458195" height="30" width="40" /></a>
+</p>
 
 <!---
 manuelhm98/manuelhm98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
