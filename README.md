@@ -30,11 +30,3 @@ My favory series is The Office (U.S.) 📺
  <a href="https://www.digitalocean.com//" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="digitalocean" width="40" height="40"/>  </a>
 
 </p>
-
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=manuelhm98&theme=merko&hide_border=true"/></a>
-</p>
-
-
-
