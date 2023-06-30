@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h>
 <p  align="center">
-I founder SeedCode SV 🌱 🏗️.
+Founder SeedCode SV 🌱 🏗️.
 </p>
 <p  align="center">
 I love JavaScript ❤️.
