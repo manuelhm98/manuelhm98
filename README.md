@@ -26,9 +26,24 @@ My favory series is The Office (U.S.) 📺
 
 
 <h5 align="left">Languages and Tools:</h5>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.digitalocean.com//" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="digitalocean" width="40" height="40"/>  </a>
- <a href="https://www.digitalocean.com//" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="digitalocean" width="40" height="40"/>  </a>
- <a href="https://www.digitalocean.com//" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="digitalocean" width="40" height="40"/>  </a>
-
+## 🔧Technologies and Tools
+<p align='center'>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-00000F?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=green"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/angular-a60202?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/digital%20ocean-1370f2?style=for-the-badge&logo=Digitalocean&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7d0ca6?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DEBIAN-ffffff?style=for-the-badge&logo=debian&logoColor=red"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PM2-ffffff?style=for-the-badge&logo=PM2&logoColor=blue"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
