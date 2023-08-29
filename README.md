@@ -7,7 +7,7 @@
 Founder SeedCode SV 🌱 🏗️.
 </p>
 <p  align="center">
-I love JavaScript ❤️.
+I love javaScript ❤️.
 </p>
 <p  align="center">
 My favory series is The Office (U.S.) 📺
